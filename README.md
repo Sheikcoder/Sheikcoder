@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sheikcoder
-- 👀 I’m interested in React.j
+- 👀 I’m interested in React.js
 - 🌱 I’m currently learning MERN Stack Development.
 - 💞️ I’m looking to collaborate on React.js
 - 📫 How to reach me gmail: trichysheikabdulla@gmail.com
