@@ -2,7 +2,7 @@
 - 👀 I’m interested in React.js
 - 🌱 I’m currently learning MERN Stack Development.
 - 💞️ I’m looking to collaborate on React.js
-- 📫 How to reach me gmail: trichysheikabdulla@gmail.com
+- 📫 How to reach me gmail: trichysheikabdulla@gmail.com whatsapp:+918248381988
 
 <!---
 Sheikcoder/Sheikcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
